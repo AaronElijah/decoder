@@ -10,6 +10,7 @@ def decode(numbers)
     letter = KEY[number]
     # Add it onto the string.
     text += letter
+    # if text != nil
   end
   # Return the decoded string.
   return text
