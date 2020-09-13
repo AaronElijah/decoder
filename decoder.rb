@@ -11,6 +11,7 @@ def decode(numbers)
     # Add it onto the string.
     text += letter
     # if text != nil
+    # Impatient change
   end
   # Return the decoded string.
   return text
